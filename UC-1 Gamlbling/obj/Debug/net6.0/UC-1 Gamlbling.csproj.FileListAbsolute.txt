@@ -1,0 +1,15 @@
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\project\gamler\UC-1 Gamlbling\obj\Debug\net6.0\UC-1 Gamlbling.csproj.AssemblyReference.cache
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\project\gamler\UC-1 Gamlbling\obj\Debug\net6.0\UC-1 Gamlbling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\project\gamler\UC-1 Gamlbling\obj\Debug\net6.0\UC-1 Gamlbling.AssemblyInfoInputs.cache
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\project\gamler\UC-1 Gamlbling\obj\Debug\net6.0\UC-1 Gamlbling.AssemblyInfo.cs
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\project\gamler\UC-1 Gamlbling\obj\Debug\net6.0\UC-1 Gamlbling.csproj.CoreCompileInputs.cache
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\project\gamler\UC-1 Gamlbling\bin\Debug\net6.0\UC-1 Gamlbling.exe
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\project\gamler\UC-1 Gamlbling\bin\Debug\net6.0\UC-1 Gamlbling.deps.json
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\project\gamler\UC-1 Gamlbling\bin\Debug\net6.0\UC-1 Gamlbling.runtimeconfig.json
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\project\gamler\UC-1 Gamlbling\bin\Debug\net6.0\UC-1 Gamlbling.dll
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\project\gamler\UC-1 Gamlbling\bin\Debug\net6.0\UC-1 Gamlbling.pdb
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\project\gamler\UC-1 Gamlbling\obj\Debug\net6.0\UC-1 Gamlbling.dll
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\project\gamler\UC-1 Gamlbling\obj\Debug\net6.0\refint\UC-1 Gamlbling.dll
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\project\gamler\UC-1 Gamlbling\obj\Debug\net6.0\UC-1 Gamlbling.pdb
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\project\gamler\UC-1 Gamlbling\obj\Debug\net6.0\UC-1 Gamlbling.genruntimeconfig.cache
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\project\gamler\UC-1 Gamlbling\obj\Debug\net6.0\ref\UC-1 Gamlbling.dll
